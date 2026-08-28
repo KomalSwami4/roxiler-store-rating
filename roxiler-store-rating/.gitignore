@@ -1,0 +1,36 @@
+# dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# env files - VERY IMPORTANT
+.env
+server/.env
+client/.env
+
+# database
+*.db
+*.sqlite
+*.sqlite3
+server/database.db
+server/*.db
+
+# build files
+client/dist/
+client/build/
+server/dist/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+*.swp
