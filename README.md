@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # roxiler-store-rating
 a coding challenge for my internship (do it or just do it)...
+=======
+# Roxiler Store Rating...
+>>>>>>> e5fbcfa (initial setup)
